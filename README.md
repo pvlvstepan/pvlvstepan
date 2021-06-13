@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [stepanpavlov.com](stepanpavlov.com)
 
-- 📫 How to reach me **pvlv.stepan@gmail.com**
+- 📫 Reach me at **pvlv.stepan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IKd9E4xYUzXiRUA5DEAY3hLR4-T8dqol/view?usp=sharing](https://drive.google.com/file/d/1IKd9E4xYUzXiRUA5DEAY3hLR4-T8dqol/view?usp=sharing)
+- 📄 Learn more about my experiences: [View & Download my resume](https://drive.google.com/file/d/1IKd9E4xYUzXiRUA5DEAY3hLR4-T8dqol/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
