@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Stepan Pavlov
 #### A passionate frontend developer from Russia
-![A passionate frontend developer from Russia](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A passionate frontend developer from Russia](https://i.imgur.com/90mn5oG.png)
 
 My passion drives me in the pursuit of many interests and areas of study. I'd like to develop expertise in several software engineering fields, with a considerable interest in mobile and web development.
 
