@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Stepan Pavlov
 ### A passionate frontend developer from Russia
 
+<img src='https://i.imgur.com/9DvCTbL.png' alt='banner' />
+
 My passion drives me in the pursuit of many interests and areas of study. I'd like to develop expertise in several software engineering fields, with a considerable interest in mobile and web development.
 
 Skills: **REACT / NODE / JS / HTML / CSS / BOOTSTRAP / JQUERY**
