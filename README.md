@@ -9,7 +9,7 @@ Skills: **REACT / NODE / JS / HTML / CSS / BOOTSTRAP / JQUERY**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pvlvstepan&label=Profile%20views&color=0e75b6&style=flat" alt="pvlvstepan" /> </p>
 
-- 🔭 I’m currently working at [Moscow State University BigData Research Centre](https://bigdata.msu.ru/)
+- 🔭 I’m currently working at [BigData Research Centre of the Moscow State University](https://bigdata.msu.ru/)
 
 - 🌱 I’m currently learning **React, JavaScript, RESTful and more...**
 
