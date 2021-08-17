@@ -17,5 +17,5 @@ My passion drives me in the pursuit of many interests and areas of study. I'd li
 
 - 📄 Learn more about my experiences: [Resume](https://drive.google.com/file/d/1IKd9E4xYUzXiRUA5DEAY3hLR4-T8dqol/view?usp=sharing)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvlvstepan&bg_color=#0D1117&text_color=#FFFFFF" alt="pvlvstepan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvlvstepan&bg_color=#0D1117&text_color=#FFFFFF&exclude_repo=java-virtue-bank-group" alt="pvlvstepan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvlvstepan&show_icons=true&locale=en&count_private=true&bg_color=#0D1117&text_color=#FFFFFF" alt="pvlvstepan" /></p>
