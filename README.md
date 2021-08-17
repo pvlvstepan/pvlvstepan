@@ -19,5 +19,5 @@ Skills: **REACT / NODE / JS / HTML / CSS / BOOTSTRAP / JQUERY**
 
 - 📄 Learn more about my experiences: [Resume](https://drive.google.com/file/d/1IKd9E4xYUzXiRUA5DEAY3hLR4-T8dqol/view?usp=sharing)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvlvstepan&layout=compact&bg_color=30,#e96443,#904e95" alt="pvlvstepan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvlvstepan&bg_color=30,#e96443,#904e95" alt="pvlvstepan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pvlvstepan&show_icons=true&locale=en&count_private=true&bg_color=30,#e96443,#904e95" alt="pvlvstepan" /></p>
