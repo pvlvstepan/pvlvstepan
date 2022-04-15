@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Stepan Pavlov
-### A passionate frontend developer from Russia
 
 <img src='https://i.imgur.com/9DvCTbL.png' alt='banner' />
 
